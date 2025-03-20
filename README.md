@@ -6,8 +6,7 @@ This is a **real-time parking space detection system** that uses OpenCV and Flas
 
 ## 📷 Project Preview
 ParaSpot Preview
-![image](https://github.com/user-attachments/assets/8f94df20-a9c9-481b-a678-e05102368e1b)
-
+![preview](https://github.com/user-attachments/assets/426cea79-1df7-4e0b-9395-dd8dd714224d)
 
 ---
 
