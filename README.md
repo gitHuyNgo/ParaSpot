@@ -44,7 +44,7 @@ ParaSpot/
 │── data/                 # Folder containing video and parking positions
 │   ├── parking_position  # Pickled file storing predefined parking positions
 │   ├── parking_video.mp4 # Video file of the parking lot
-│   ├── parking.png       # Image for marking
+│   ├── parking.png       # Image for marking objects
 │   ├── preview.png       # Image for project preview
 │── templates/            # HTML templates for the web interface
 │   ├── index.html        # Main webpage displaying the video feed
